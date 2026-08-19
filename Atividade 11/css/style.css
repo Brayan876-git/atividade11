@@ -1,0 +1,17 @@
+body{
+    background-color:#29474A;
+}
+h1{
+    color:#F25D27;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h2{
+    color:#D93A2B;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
