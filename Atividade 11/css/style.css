@@ -3,14 +3,244 @@ body{
 }
 h1{
     color:#F25D27;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: #135A74;
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
 }
-h2{
+.subtitulo1{
     color:#D93A2B;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #eb8a0c;
     font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.desc1{
+  color:rgba(0, 0, 0, 0.24)
+}
+.desc2{
+  color:rgba(0, 0, 0, 0.24)
+}
+.subtitulo2{
+    color:#04B2D9;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #0367A6;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+span{
+  color:#2ef2278a;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.texto1{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.texto2{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
+}
+.texto3{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
+}
+.container-pai{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.subtitulo3{
+    color:#F26E22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #A62C21;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.texto4{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
+}
+.desc3{
+  color:rgba(0, 0, 0, 0.24)
+}
+
+.texto5{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
+}
+.desc4{
+  color:rgba(0, 0, 0, 0.24)
+}
+.texto6{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
+}
+.desc5{
+  color:rgba(0, 0, 0, 0.24)
+}
+.subtitulo4{
+    color:#BF4226;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #59201B;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.subtitulo5{
+    color:#F2D857;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #BFA730;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.texto6{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
+}
+.desc5{
+  color:rgba(0, 0, 0, 0.24)
+}
+.subtitulo6{
+    color:#F21D56;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #BF212E;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.texto8{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
+}
+.subtitulo7{
+    color:#055BA6;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #0B9ED9;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.desc7{
+  color:rgba(0, 0, 0, 0.24)
+}
+.subtitulo8{
+    color:#12171A;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #A6A4A1;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.desc8{
+  color:rgba(0, 0, 0, 0.24)
+}
+.texto9{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
+}
+.marca{
+  color:#061efaaf;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.copy{
+  color:#061efaaf
+  font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
