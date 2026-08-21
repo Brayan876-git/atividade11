@@ -1,0 +1,19 @@
+body{
+    background-color:#29474A;
+}
+.colortext{
+    color: rgba(243, 242, 242, 0.596);
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+nav{
+    color: black;
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
