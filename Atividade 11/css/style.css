@@ -256,3 +256,8 @@ span{
   font-style: normal;
   line-height: 1em;
 }
+center1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
