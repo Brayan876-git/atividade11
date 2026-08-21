@@ -232,16 +232,27 @@ span{
   line-height: 1em;
 }
 .marca{
-  color:#061efaaf;
+  color:#e5e5eb2f;
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
 }
 .copy{
-  color:#061efaaf
+  color:#e5e5eb2f;
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+}
+.desc6{
+  color:rgba(0, 0, 0, 0.24)
+}
+.texto7{
+  color:#fffefd6e;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  line-height: 1em;
 }
