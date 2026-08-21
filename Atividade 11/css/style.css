@@ -1,7 +1,9 @@
 body{
+  /* Mudei a cor do fundo */
     background-color:#29474A;
 }
 h1{
+  /* Título do site - Deixei no centro do site */
     color:#F25D27;
     -webkit-text-stroke-width: 1.5px;
     -webkit-text-stroke-color: #135A74;
@@ -11,6 +13,7 @@ h1{
   font-style: normal;
 }
 .subtitulo1{
+  /* Subtítulo do site do primeiro carro - Deixei no centro do site */
     color:#D93A2B;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #eb8a0c;
@@ -23,9 +26,11 @@ h1{
   align-items: center;
 }
 .desc1{
+  /* Descrição da imagem e do vídeo - Deixei com uma cor transparente */
   color:rgba(0, 0, 0, 0.24)
 }
 .desc2{
+  /* Descrição da imagem e do vídeo - Deixei com uma cor transparente */
   color:rgba(0, 0, 0, 0.24)
 }
 .subtitulo2{
@@ -41,6 +46,7 @@ h1{
   align-items: center;
 }
 span{
+  /* Informação do site - Tempo de leitura, coloquei uma imagem de relógio */
   color:#2ef2278a;
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
@@ -51,6 +57,7 @@ span{
   align-items: center;
 }
 .texto1{
+  /* Sobre o carro - coloquei fontes e mudei de cor pra combinar com o site  */
   color:#fffefd6e;
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
@@ -93,9 +100,9 @@ span{
   align-items: center;
 }
 .subtitulo3{
-    color:#F26E22;
+    color:#BF0A19;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #A62C21;
+    -webkit-text-stroke-color: #F25C5C;
     font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -232,6 +239,7 @@ span{
   line-height: 1em;
 }
 .marca{
+  /* Marca de que foi feito por mim - Brayan */
   color:#e5e5eb2f;
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
@@ -239,6 +247,7 @@ span{
   font-style: normal;
 }
 .copy{
+  /* Marca de Copyright */
   color:#e5e5eb2f;
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
@@ -257,7 +266,14 @@ span{
   line-height: 1em;
 }
 center1{
+    /* Deixar a imagem no centro do site - Usei o hmtl, mas testei se conseguia no CSS */
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.img-center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
 }
